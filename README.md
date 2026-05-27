@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0503-next-greater-element-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
