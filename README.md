@@ -34,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0075-sort-colors) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3093-longest-common-suffix-queries](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3093-longest-common-suffix-queries) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
