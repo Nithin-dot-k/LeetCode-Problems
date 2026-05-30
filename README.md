@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1871-jump-game-vii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1871-jump-game-vii) |
 ## Linked List
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3093-longest-common-suffix-queries](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3093-longest-common-suffix-queries) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Matrix
 |  |
 | ------- |
