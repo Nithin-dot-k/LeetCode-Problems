@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -138,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0075-sort-colors) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
