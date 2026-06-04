@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1314-matrix-block-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1314-matrix-block-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
