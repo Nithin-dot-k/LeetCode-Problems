@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [1314-matrix-block-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
 ## Backtracking
 |  |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Combinatorics
