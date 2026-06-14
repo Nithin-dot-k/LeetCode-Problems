@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1314-matrix-block-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1314-matrix-block-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3093-longest-common-suffix-queries](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3093-longest-common-suffix-queries) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Matrix
 |  |
 | ------- |
