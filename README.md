@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0567-permutation-in-string) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
