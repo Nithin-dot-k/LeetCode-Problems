@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0169-majority-element) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Depth-First Search
