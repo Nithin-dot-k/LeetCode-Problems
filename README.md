@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1871-jump-game-vii) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3093-longest-common-suffix-queries](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0735-asteroid-collision) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3612-process-string-with-special-operations-i](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Recursion
