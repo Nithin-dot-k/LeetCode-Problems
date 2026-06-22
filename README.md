@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1189-maximum-number-of-balloons](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1871-jump-game-vii) |
 | [3093-longest-common-suffix-queries](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1189-maximum-number-of-balloons](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Stack
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 ## Bucket Sort
 |  |
 | ------- |
