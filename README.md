@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1871-jump-game-vii) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
