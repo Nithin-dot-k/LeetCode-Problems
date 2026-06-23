@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0647-palindromic-substrings) |
+| [0856-score-of-parentheses](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1189-maximum-number-of-balloons](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1871-jump-game-vii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1871-jump-game-vii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
