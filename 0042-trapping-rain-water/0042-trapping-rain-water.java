@@ -1,17 +1,17 @@
 class Solution {
     public int trap(int[] arr) {
-        int i=0,j=arr.length-1,tot=0;
-        int lm=0,rm=0;
-        while(i<j){
-            if(arr[i]<=arr[j]){
-                if(arr[i]>=lm) lm=arr[i];
-                else tot+=lm-arr[i];
-                i++;
+        int l=0,r=arr.length-1;
+        int lm=0,rm=0,tot=0;
+        while(l<r){
+            if(arr[l]<arr[r]){
+                if(arr[l]>lm) lm=arr[l];
+                else tot+=lm-arr[l];
+                l++;
             }
             else{
-                if(arr[j]>=rm) rm=arr[j];
-                else tot+=rm-arr[j];
-                j--;
+                if(arr[r]>rm) rm=arr[r];
+                else tot+=rm-arr[r];
+                r--;
             }
         }
         return tot;
