@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3093-longest-common-suffix-queries](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3093-longest-common-suffix-queries) |
+| [3523-make-array-non-decreasing](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3523-make-array-non-decreasing) |
 | [3838-weighted-word-mapping](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3523-make-array-non-decreasing](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3523-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3523-make-array-non-decreasing](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [3523-make-array-non-decreasing](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/3523-make-array-non-decreasing) |
 ## Design
 |  |
 | ------- |
