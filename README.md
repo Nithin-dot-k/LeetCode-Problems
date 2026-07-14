@@ -345,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0394-decode-string) |
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
