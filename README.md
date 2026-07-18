@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0189-rotate-array) |
