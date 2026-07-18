@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0227-basic-calculator-ii](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0227-basic-calculator-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -356,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
