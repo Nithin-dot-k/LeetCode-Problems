@@ -5,7 +5,7 @@ class Solution {
             li.add(i);
         }
         boolean flag = true;
-        int sum = 0, nithin = 0;
+        int sum = 0;
        for(int i=1;i<nums.length;i++)
        {
             if(nums[i-1]+1 == nums[i])
@@ -20,16 +20,9 @@ class Solution {
             }
        }
        if(flag) sum += nums[nums.length-1];
-       while(nithin < 1)
+       while(li.contains(sum))
        {
-        if(!li.contains(sum))
-        {
-            break;
-        }
-        else
-        {
-            sum += 1;
-        }
+        sum++;
        }
        return sum;
     }
