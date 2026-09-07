@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Nithin-dot-k/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 ## String Matching
 |  |
 | ------- |
